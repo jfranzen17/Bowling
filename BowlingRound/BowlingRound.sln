@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BowlingRound", "BowlingRound.csproj", "{1120BFA5-7F20-4931-AA0B-DA0BD2D05E1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BowlingRoundTest", "..\BowlingRoundTest\BowlingRoundTest.csproj", "{7C200EC3-F0EF-4375-9C30-04E511545B25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1120BFA5-7F20-4931-AA0B-DA0BD2D05E1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1120BFA5-7F20-4931-AA0B-DA0BD2D05E1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1120BFA5-7F20-4931-AA0B-DA0BD2D05E1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1120BFA5-7F20-4931-AA0B-DA0BD2D05E1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C200EC3-F0EF-4375-9C30-04E511545B25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C200EC3-F0EF-4375-9C30-04E511545B25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C200EC3-F0EF-4375-9C30-04E511545B25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C200EC3-F0EF-4375-9C30-04E511545B25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5618B623-1C60-4CC7-B0D6-E175126643B5}
+	EndGlobalSection
+EndGlobal
