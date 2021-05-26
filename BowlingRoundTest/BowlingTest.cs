@@ -18,7 +18,7 @@ namespace BowlingRoundTest
         {
             for (int i = 0; i < rolls; i++)
             {
-                bowlingGame.Roll(pins);
+                bowlingGame.Roll(pins); ;
             }
         }
 
